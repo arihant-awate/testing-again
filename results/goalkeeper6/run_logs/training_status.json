@@ -1,0 +1,24 @@
+{
+    "MoveToGoal": {
+        "checkpoints": [
+            {
+                "steps": 230519,
+                "file_path": "results\\goalkeeper6\\MoveToGoal\\MoveToGoal-230519.onnx",
+                "reward": null,
+                "creation_time": 1657864023.8784852
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 230519,
+            "file_path": "results\\goalkeeper6\\MoveToGoal.onnx",
+            "reward": null,
+            "creation_time": 1657864023.8784852
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.22.0",
+        "torch_version": "1.7.0+cu110",
+        "tensorflow_version": -1
+    }
+}
